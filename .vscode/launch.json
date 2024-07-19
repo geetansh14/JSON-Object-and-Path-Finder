@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RootApplication<root>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.scoreme.root.RootApplication",
+            "projectName": "root",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
